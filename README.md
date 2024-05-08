@@ -1,2 +1,2 @@
 # MachineLearning_
-Code in Python
+Code in Python written during course of Machine Learning at the university
